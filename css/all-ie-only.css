@@ -1,0 +1,20 @@
+header, nav, section, article, aside, footer {
+    display:block;
+}
+
+img {
+    border:none !important;
+    border-width:0;
+}
+a img {
+    border: none !important;
+}
+
+#IE8Body .offers .offer {
+    width :412px !important;
+    height:309px;
+
+}
+.receive .title {
+    display:block !important;
+}
